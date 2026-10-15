@@ -1,0 +1,6 @@
+path: C:/Users/corps/Desktop/python/Maplestory/dataset  # 資料集的根目錄
+train: images/train          # 訓練影像的相對路徑
+val: images/train              # 驗證影像的相對路徑
+
+nc: 4                        # 類別數量（根據你的類別數）
+names: ['ground', 'mob', 'player', 'rope']  # 類別名稱
